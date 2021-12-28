@@ -1,0 +1,41 @@
+.carousel-item {
+   
+    
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 600px;
+}
+
+.navbar
+{
+    height: 140px;
+    background-color: white !important;
+   
+    
+}
+
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top: 40px;
+    
+
+  }
+
+  #navMenu
+  {
+      color: rgb(15, 80, 15) !important;
+      font-family: 'Bebas Neue';
+     
+      
+  }
+
+  .btn-md
+  {
+      background-color:rgb(15, 80, 15);
+      
+  }
